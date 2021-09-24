@@ -1,4 +1,4 @@
-# faceRecApp-api
+# Smart brain backend
 
 To work properly with this backend you need to add API key in controllers/image.js
 
